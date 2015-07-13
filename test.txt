@@ -2,3 +2,4 @@ this is a test.
 I want to test git merge branch and conflict test.
 test version conflict.
 hello world.
+& another.
