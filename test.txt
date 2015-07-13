@@ -1,2 +1,2 @@
 this is a test.
-I want to test git merge branch.
+I want to test git merge branch and conflict test.
